@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/ColabNotebooks/yolotest/airplane/train/
+val: /content/drive/MyDrive/ColabNotebooks/yolotest/airplane/valid/
+test: /content/drive/MyDrive/ColabNotebooks/yolotest/airplane/test/
+
+nc: 1
+names: ["airplane"]
